@@ -50,7 +50,7 @@ function draw() {
   textSize(24)
   fill("black")
   text("Hi,there I am Your Puppy",650,80)
-  text("Coco!!",750,300)
+  text("Moti!!",750,300)
  
   fill("black");
   textSize(15);
